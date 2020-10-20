@@ -1,0 +1,26 @@
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\bin\Debug\netcoreapp3.1\Files 1.exe
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\bin\Debug\netcoreapp3.1\Files 1.deps.json
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\bin\Debug\netcoreapp3.1\Files 1.runtimeconfig.json
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\bin\Debug\netcoreapp3.1\Files 1.runtimeconfig.dev.json
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\bin\Debug\netcoreapp3.1\Files 1.dll
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\bin\Debug\netcoreapp3.1\Files 1.pdb
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.csprojAssemblyReference.cache
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.AssemblyInfoInputs.cache
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.AssemblyInfo.cs
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.csproj.CoreCompileInputs.cache
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.dll
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.pdb
+C:\Users\Аташ\source\repos\Files Homeworks\Files 1\obj\Debug\netcoreapp3.1\Files 1.genruntimeconfig.cache
+C:\SomeDir\Files 1\bin\Debug\netcoreapp3.1\Files 1.exe
+C:\SomeDir\Files 1\bin\Debug\netcoreapp3.1\Files 1.deps.json
+C:\SomeDir\Files 1\bin\Debug\netcoreapp3.1\Files 1.runtimeconfig.json
+C:\SomeDir\Files 1\bin\Debug\netcoreapp3.1\Files 1.runtimeconfig.dev.json
+C:\SomeDir\Files 1\bin\Debug\netcoreapp3.1\Files 1.dll
+C:\SomeDir\Files 1\bin\Debug\netcoreapp3.1\Files 1.pdb
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.csprojAssemblyReference.cache
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.AssemblyInfoInputs.cache
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.AssemblyInfo.cs
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.csproj.CoreCompileInputs.cache
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.dll
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.pdb
+C:\SomeDir\Files 1\obj\Debug\netcoreapp3.1\Files 1.genruntimeconfig.cache
